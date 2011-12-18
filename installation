@@ -1,0 +1,17 @@
+To Run Application You have to 
+
+1) Install WxPython 
+	sudo apt-get install python-wxversion spe
+2)Running Application:
+	python TweetOnDesktop.py
+3)Configuring Account
+	settings -> Configure Account -> Give Your Consumer Key, Consumer Secret,Account Key, Account Secret
+	the above four credentials are called OAuth Authentication credentials . If You have no OAuth credentials 
+	You can go to 
+			https://dev.twitter.com/apps/1469082/show
+	and register and get above credentials 
+4) Now things are as simple , 
+	Enter Your tweet and click Tweet To Tweet
+	click fetch Tweets To See Yours Friends Tweets .......
+ 
+
